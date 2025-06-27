@@ -1,2 +1,2 @@
 # Next.js
-My learning Next.js
+Me learning Next.js
