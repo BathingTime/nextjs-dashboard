@@ -1,2 +1,2 @@
-# Next.js
+# nextjs-dashboard
 Me learning Next.js
